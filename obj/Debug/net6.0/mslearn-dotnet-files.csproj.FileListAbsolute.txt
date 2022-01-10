@@ -1,0 +1,15 @@
+C:\Projects .NET\ConsoleApp2\bin\Debug\net6.0\mslearn-dotnet-files.exe
+C:\Projects .NET\ConsoleApp2\bin\Debug\net6.0\mslearn-dotnet-files.deps.json
+C:\Projects .NET\ConsoleApp2\bin\Debug\net6.0\mslearn-dotnet-files.runtimeconfig.json
+C:\Projects .NET\ConsoleApp2\bin\Debug\net6.0\mslearn-dotnet-files.dll
+C:\Projects .NET\ConsoleApp2\bin\Debug\net6.0\ref\mslearn-dotnet-files.dll
+C:\Projects .NET\ConsoleApp2\bin\Debug\net6.0\mslearn-dotnet-files.pdb
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.csproj.AssemblyReference.cache
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfo.cs
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.dll
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\ref\mslearn-dotnet-files.dll
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.pdb
+C:\Projects .NET\ConsoleApp2\obj\Debug\net6.0\mslearn-dotnet-files.genruntimeconfig.cache
